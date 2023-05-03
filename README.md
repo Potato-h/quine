@@ -1,0 +1,1 @@
+### Quine written in Haskell
